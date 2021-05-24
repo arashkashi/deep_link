@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "3UV54P2QJF.co.mvpfactory.ytravel",
+        "components": [
+          {
+            "/": "/password/change/?*"
+          }
+        ]
+      }
+    ]
+  }
+}
+
